@@ -1,0 +1,101 @@
+[
+    {
+        "name": "David De Gea",
+        "age": 32,
+        "nationality": "Spain",
+        "goals": 0,
+        "assists": 0,
+        "DOB": "07/11/1990",
+        "height": "192cm"
+    },
+    {
+        "name": "Nathan Bishop",
+        "age": 23,
+        "nationality": "England",
+        "goals": 0,
+        "assists": 0,
+        "DOB": "15/10/1999",
+        "height": "185cm"
+    },
+    {
+        "name": "Victor Lindelöf",
+        "age": 28,
+        "nationality": "Spain",
+        "goals": 3,
+        "assists": 4,
+        "DOB": "17/07/1994",
+        "height": "187cm"
+    },
+    {
+        "name": "Phil Jones",
+        "age": 31,
+        "nationality": "England",
+        "goals": 2,
+        "assists": 6,
+        "DOB": "21/02/1992",
+        "height": "180cm"
+    },
+    {
+        "name": "Harry Maguire",
+        "age": 30,
+        "nationality": "England",
+        "goals": 11,
+        "assists": 8,
+        "DOB": "05/03/1993",
+        "height": "194cm"
+    },
+    {
+        "name": "Diogo Dalot",
+        "age": 24,
+        "nationality": "Portugal",
+        "goals": 0,
+        "assists": 4,
+        "DOB": "18/03/1999",
+        "height": "183cm"
+    },
+    {
+        "name": "Luke Shaw",
+        "age": 27,
+        "nationality": "England",
+        "goals": 3,
+        "assists": 17,
+        "DOB": "12/07/1995",
+        "height": "185cm"
+    },
+    {
+        "name": "Raphaël Varane",
+        "age": 32,
+        "nationality": "France",
+        "goals": 1,
+        "assists": 1,
+        "DOB": "25/04/1993",
+        "height": "191cm"
+    },
+    {
+        "name": "Bruno Fernandes",
+        "age": 28,
+        "nationality": "Portugal",
+        "goals": 41,
+        "assists": 31,
+        "DOB": "08/09/1994",
+        "height": "179cm"
+    },
+    {
+        "name": "Casemiro",
+        "age": 31,
+        "nationality": "Brazil",
+        "goals": 2,
+        "assists": 3,
+        "DOB": "23/02/1992",
+        "height": "185cm"
+    },
+    {
+        "name": "Marcus Rashford",
+        "age": 32,
+        "nationality": "England",
+        "goals": 73,
+        "assists": 35,
+        "DOB": "31/10/1997",
+        "height": "180cm"
+    }
+]

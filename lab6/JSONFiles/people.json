@@ -1,0 +1,11 @@
+[
+    { "name": "Josh", "age": 20, "height": "5ft10", "hair_colour": "blonde", "county": "Cork" },
+    { "name": "Jake", "age": 21, "height": "5ft8", "hair_colour": "black", "county": "Dublin" },
+    { "name": "Blake", "age": 17, "height": "4ft1", "hair_colour": "brown", "county": "Longford" },
+    { "name": "Brad", "age": 18, "height": "7ft1", "hair_colour": "brown", "county": "Meath" },
+    { "name": "Chad", "age": 22, "height": "6ft2", "hair_colour": "blonde", "county": "Dublin" },
+    { "name": "Mark", "age": 49, "height": "5ft5", "hair_colour": "grey", "county": "Waterford" },
+    { "name": "Thomas", "age": 28, "height": "4ft11", "hair_colour": "black", "county": "Dublin" },
+    { "name": "Rick", "age": 20, "height": "6ft3", "hair_colour": "red", "county": "Carlow" },
+    { "name": "Jack", "age": 26, "height": "6ft1", "hair_colour": "black", "county": "Wicklow" }
+]

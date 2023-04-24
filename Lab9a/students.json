@@ -1,0 +1,30 @@
+[
+	{
+		"id": 0,
+		"firstName": "Amy",
+		"lastName": "Ronan",
+		"course": "Maths",
+		"year": 2023
+	},
+	{
+		"id": 1,
+		"firstName": "Liam",
+		"lastName": "Anderson",
+		"course": "Computer Science",
+		"year": 2023
+	},
+	{
+		"id": 2,
+		"firstName": "Ellie",
+		"lastName": "Merrigan",
+		"course": "English",
+		"year": 2023
+	},
+	{
+		"id": 3,
+		"firstName": "Jamie",
+		"lastName": "Keogh",
+		"course": "Irish",
+		"year": 2023
+	}
+]

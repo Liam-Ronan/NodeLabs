@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "first_name": "Liam",
+        "last_name": "Ronan",
+        "course": "CS",
+        "year": 2023
+    },
+    {
+        "id": 1,
+        "first_name": "Connor",
+        "last_name": "Mattless",
+        "course": "CS",
+        "year": 2023
+    },
+    {
+        "id": 2,
+        "first_name": "Ellie",
+        "last_name": "Merrigan",
+        "course": "CS",
+        "year": 2023
+    },
+    {
+        "id": 3,
+        "first_name": "Amy",
+        "last_name": "Ronan",
+        "course": "CS",
+        "year": 2023
+    }
+]
